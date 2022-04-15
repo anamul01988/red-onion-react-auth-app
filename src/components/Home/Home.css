@@ -1,0 +1,42 @@
+.home{
+    background-image: url('../../asset/bannerbackground.png') ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}
+.home-content{
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.home-content h2{
+    line-height: 20px;
+    margin-bottom: 35px;
+}
+
+form{
+    display: flex;
+}
+input[type="text"] {
+    width: 350px;
+    height: 40px;
+    padding-right: 80px;
+    border: 1px solid white;
+
+}
+
+input[type="submit"] {
+    margin-left: -80px;
+    height: 40px;
+    width: 100px;
+    text-transform: capitalize;
+    background-color: red;
+    color: white;
+    border: 1px solid white;
+    font-size: 14px;
+    letter-spacing: 1px;
+}

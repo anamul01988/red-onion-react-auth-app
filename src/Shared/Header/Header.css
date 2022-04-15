@@ -1,0 +1,9 @@
+a.text-dark.nav-link {
+    font-size: 18px;
+    font-family: 'poopins', sans-serif;
+    letter-spacing: .5px;
+}
+.navbar-toggler-icon{
+    /* color: black; */
+    background: rgb(181, 20, 20);
+}
