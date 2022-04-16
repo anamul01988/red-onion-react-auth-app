@@ -1,5 +1,6 @@
 import './App.css';
 import Home from './components/Home/Home';
+import Meal from './components/Meal/Meal';
 import Header from './Shared/Header/Header';
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div >
          <Header/>
          <Home/>
+         <Meal/>
     </div>
   );
 }

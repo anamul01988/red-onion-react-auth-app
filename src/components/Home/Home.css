@@ -3,7 +3,8 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 400px;
+    /* height: 100vh; */
+    height: 530px;
 }
 .home-content{
     padding-top: 100px;
